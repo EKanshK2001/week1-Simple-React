@@ -5,8 +5,14 @@
 - State is loaded from the localstorage so reloads dont matter.
 - The application uses text areas and input boxes and their styling to make edits inline.
 
+### Topics covered :
+- typeScript react components and state to store data changes ✅
+- styling with tailwind ✅
+- using localStorage to store and access site data ✅
+
+
 ### Run
 - npm run dev
 
 ### Bugs
-- Resizing textarea feature not working correctly.
+- Resizing textarea feature not working correctly ❌
