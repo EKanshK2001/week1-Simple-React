@@ -1,9 +1,9 @@
 ## Mini Project for practicing React, Functional Components, Props, with Typescript
 ### (TypeScript, React, Vite, Tailwind)
 
-- This is a notepad like application which saves any new edits in state and local storage.
+- This is a notepad like application which autosaves any new edits in state and local storage.
 - State is loaded from the localstorage so reloads dont matter.
-- The application uses text areas and input boxes and their styling to make edits inline.
+- The application uses auto-resizing text area (https://www.npmjs.com/package/react-textarea-autosize) and their styling to make edits inline.
 
 ### Topics covered :
 - typeScript react components and state to store data changes ✅
@@ -15,4 +15,4 @@
 - npm run dev
 
 ### Bugs
-- Resizing textarea feature not working correctly ❌
+- None for the required functioning
